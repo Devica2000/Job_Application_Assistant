@@ -1,3 +1,5 @@
+#An agent to help optimize candidate's LinkedIn Profile
+
 from crewai import Agent
 from utils.tools import scrape_tool, search_tool, pdf_tool, semantic_search_resume
 
