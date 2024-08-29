@@ -17,4 +17,3 @@ Devica Verma
 
 [LinkedIn Profile](https://www.linkedin.com/in/devica-verma/)
 [GitHub](https://github.com/Devica2000?tab=repositories)
-dv2465@columbia.edu
