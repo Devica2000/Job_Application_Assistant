@@ -1,4 +1,4 @@
-# Job Application Assistant 💼🖥️💻🗂️📚
+# Job Application Assistant 🖥️📚
 
 **Final Project for Stanford’s Tech16: LLMs for Biz with Python**
 
