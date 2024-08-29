@@ -1,4 +1,4 @@
-# Job Application Assistant
+# Job Application Assistant 💼🖥️💻🗂️📚
 
 **Final Project for Stanford’s Tech16: LLMs for Biz with Python**
 
@@ -32,3 +32,25 @@ This app automates job application tasks such as tailoring resumes, crafting per
 
    ```bash
    git clone <repository-url>
+2. **Navigate to the project directory:**
+   ```bash
+   cd Job_Application_Assistant
+3. **Create a .env file and add your API keys (refer to .example.env).**
+4. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+5. **Run the app:**
+   ```bash
+   streamlit run app.py
+
+## Usage
+- Enter job, LinkedIn, and GitHub URLs.
+- Add a personal write-up and upload your resume (PDF).
+- Specify your fields of interest.
+- Click "Process Application."
+The app provides customized resumes, interview prep materials, and LinkedIn outreach templates.
+
+## Technical Overview:
+- **Tools:** DuckDuckGoSearch, ScrapeWebsiteTool, PDFSearchTool, SerperDevTool
+- **Agents:** Researcher, Profiler, Resume Strategist, LinkedIn Strategist, Questions Finder, Interview Preparer
+- **Crews:** Job Application Crew, LeetCode Crew
