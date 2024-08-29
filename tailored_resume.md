@@ -8,9 +8,6 @@ Here is the refined resume for Devica Verma, tailored to align more closely with
 ---
 
 **Devica Verma**  
-Las Vegas, NV  
-(469) 922-9511  
-dv2465@columbia.edu  
 [LinkedIn](https://www.linkedin.com/in/devica-verma/) | [GitHub](https://github.com/Devica2000?tab=repositories)
 
 ---
