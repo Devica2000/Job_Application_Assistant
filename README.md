@@ -15,7 +15,7 @@ This app automates job application tasks such as tailoring resumes, crafting per
 - Job URL
 - GitHub URL
 - LinkedIn URL
-- Personal write-up
+- Personal write-up (The more elaborate and comprehensive, the better)
 - Interested fields
 
 ## App Features
